@@ -19,6 +19,24 @@ The application provides a seamless experience by integrating web scraping, a ro
 
 ---
 
+### Images
+
+
+![image alt](https://github.com/Annanyatiwary4/job-listing-project/blob/main/images/Screenshot%202024-12-22%20193731.png?raw=true)
+
+
+![image alt](https://github.com/Annanyatiwary4/job-listing-project/blob/main/images/Screenshot%202024-12-22%20193818.png?raw=true)
+
+![image alt](https://github.com/Annanyatiwary4/job-listing-project/blob/main/images/Screenshot%202024-12-22%20194001.png?raw=true)
+
+![image alt](https://github.com/Annanyatiwary4/job-listing-project/blob/main/images/Screenshot%202024-12-22%20193731.png?raw=true)
+
+![image alt](https://github.com/Annanyatiwary4/job-listing-project/blob/main/images/Screenshot%202024-12-22%20194120.png?raw=true)
+
+![image alt](https://github.com/Annanyatiwary4/job-listing-project/blob/main/images/Screenshot%202024-12-22%20194139.png?raw=true)
+
+
+
 ## Getting Started
 
 ### Prerequisites
